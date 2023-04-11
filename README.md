@@ -1,3 +1,2 @@
-Hi, I’m Leila! I'm a student living in Maceió, Brazil.
-Currently learning programming while sudying Physics at university.
+Hi, I’m Leila! I'm majoring in Computer Engineering at UFAL and living in Maceió, Brazil.
 Also interested in visual effects, 3D and cinematography.
